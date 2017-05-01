@@ -6,7 +6,6 @@
 bin/
 
 # Test data
-test/*.jpg
 test/out/*.jpg
 
 # Annotated test results
